@@ -1,0 +1,13 @@
+{
+    "DomainId": "d-brsb1dgy2y1j",
+    "DefaultUserSettings": {
+        "KernelGatewayAppSettings": {
+            "CustomImages": [
+                {
+                    "ImageName": "sagemaker-studio-spark-glue",
+                    "AppImageConfigName": "sagemaker-studio-spark-glue-config"
+                }
+            ]
+        }
+    }
+}

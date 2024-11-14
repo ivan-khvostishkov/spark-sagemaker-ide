@@ -1,0 +1,16 @@
+		{
+            "AppImageConfigName": "sagemaker-studio-spark-glue-config",
+            "KernelGatewayImageConfig": {
+                "KernelSpecs": [
+                    {
+                        "Name": "python3",
+                        "DisplayName": "Python 3"
+                    }
+                ],
+                "FileSystemConfig": {
+                    "MountPath": "/root",
+                    "DefaultUid": 0,
+                    "DefaultGid": 0
+                }
+            }
+        }
